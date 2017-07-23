@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+.table-data {
+    width: 90%;
+    margin: 1.5rem auto;
+    font-weight: 300;
+    font-size: 0.75rem;
+    border-collapse: collapse;
+}
+
+.heading {
+    text-align: left;
+    font-size: 1.0rem;
+}
+
+.data-item {
+    height: 3rem;
+    border-bottom: 1px solid rgba(255,255,255,0.5);
+}
